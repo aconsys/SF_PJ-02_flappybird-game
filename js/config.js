@@ -1,7 +1,7 @@
 export default class Config {
   constructor() {
     this.state = {
-      current: 1,
+      current: 0,
       ready: 0,
       game: 1,
       gameOver: 2,
